@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LegTracking</string>
+    <string name="history_title">Riwayat Jejak</string>
+
+    <string name="btn_start_tracking">Mulai Lacak</string>
+    <string name="btn_stop_tracking">Berhenti</string>
+    <string name="btn_search">Cari Lokasi</string>
+    <string name="btn_history">Riwayat</string>
+    <string name="btn_backup_export">Ekspor Data</string>
+    <string name="btn_backup_import">Impor Data</string>
+
+    <string name="hint_search_location">Cari tempat…</string>
+    <string name="label_offline_banner">Saat ini kamu offline. Hanya histori dan rute tersimpan yang bisa dibuka.</string>
+
+    <string name="dialog_save_track_title">Simpan Jejak</string>
+    <string name="dialog_save_track_hint">Nama jejak (contoh: Jalan pagi)</string>
+
+    <string name="notif_tracking_channel">Pelacakan Lokasi</string>
+    <string name="notif_tracking_title">LegTracking sedang aktif</string>
+    <string name="notif_tracking_body">Merekam pergerakanmu…</string>
+
+    <string name="msg_permission_required">Izin lokasi dibutuhkan untuk fitur ini.</string>
+    <string name="msg_export_success">Data berhasil diekspor.</string>
+    <string name="msg_export_failed">Gagal mengekspor data.</string>
+    <string name="msg_import_success">Data berhasil diimpor.</string>
+    <string name="msg_import_failed">Gagal mengimpor data. Pastikan file valid.</string>
+    <string name="msg_no_internet_search">Tidak bisa mencari lokasi baru saat offline.</string>
+</resources>
